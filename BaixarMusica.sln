@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaixarVideo", "BaixarVideo\BaixarVideo.csproj", "{2C16AC11-C4F2-4B10-BD67-C35494D19CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaixarAudio", "BaixarAudio\BaixarAudio.csproj", "{74B5454F-D96D-46FA-BC0D-38EB6509C8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C0240C-8024-4663-90E8-F8C648C08500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C0240C-8024-4663-90E8-F8C648C08500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C0240C-8024-4663-90E8-F8C648C08500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C0240C-8024-4663-90E8-F8C648C08500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD73845C-BD4D-4F8D-AE48-7D32D513CCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD73845C-BD4D-4F8D-AE48-7D32D513CCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD73845C-BD4D-4F8D-AE48-7D32D513CCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD73845C-BD4D-4F8D-AE48-7D32D513CCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B9B107-D918-4DBE-AA3D-96877D9E0E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9B107-D918-4DBE-AA3D-96877D9E0E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9B107-D918-4DBE-AA3D-96877D9E0E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9B107-D918-4DBE-AA3D-96877D9E0E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A10C55D-DA03-4253-87B8-44ADCCDBBBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A10C55D-DA03-4253-87B8-44ADCCDBBBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A10C55D-DA03-4253-87B8-44ADCCDBBBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A10C55D-DA03-4253-87B8-44ADCCDBBBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C16AC11-C4F2-4B10-BD67-C35494D19CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C16AC11-C4F2-4B10-BD67-C35494D19CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C16AC11-C4F2-4B10-BD67-C35494D19CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C16AC11-C4F2-4B10-BD67-C35494D19CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7506C199-86DA-4185-81FC-A8810139BCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7506C199-86DA-4185-81FC-A8810139BCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7506C199-86DA-4185-81FC-A8810139BCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7506C199-86DA-4185-81FC-A8810139BCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B5454F-D96D-46FA-BC0D-38EB6509C8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B5454F-D96D-46FA-BC0D-38EB6509C8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B5454F-D96D-46FA-BC0D-38EB6509C8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B5454F-D96D-46FA-BC0D-38EB6509C8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
