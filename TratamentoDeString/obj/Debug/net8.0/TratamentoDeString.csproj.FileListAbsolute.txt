@@ -1,0 +1,12 @@
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\bin\Debug\net8.0\TratamentoDeString.deps.json
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\bin\Debug\net8.0\TratamentoDeString.dll
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\bin\Debug\net8.0\TratamentoDeString.pdb
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.AssemblyInfo.cs
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.sourcelink.json
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.dll
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\refint\TratamentoDeString.dll
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\TratamentoDeString.pdb
+C:\Users\Alexa\Documents\BaixarMusica\TratamentoDeString\obj\Debug\net8.0\ref\TratamentoDeString.dll
