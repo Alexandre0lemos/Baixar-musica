@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vkbc0ocVJ7I=",
+  "dgSpecHash": "7qvkwdDK/Ho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\ProjetoFinal.csproj",
+  "projectFilePath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\ProjetoFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexa\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\Alexa\\.nuget\\packages\\cliwrap\\3.6.6\\cliwrap.3.6.6.nupkg.sha512",

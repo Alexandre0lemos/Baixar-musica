@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj",
+      "projectUniqueName": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj",
       "projectName": "TratamentoDeString",
-      "projectPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj",
+      "projectPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj",
       "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\obj\\",
+      "outputPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\ProjetoFinal.csproj": {}
+    "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\ProjetoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\ProjetoFinal.csproj": {
+    "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\ProjetoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\ProjetoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\ProjetoFinal.csproj",
         "projectName": "ProjetoFinal",
-        "projectPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\ProjetoFinal.csproj",
+        "projectPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\ProjetoFinal.csproj",
         "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\ProjetoFinal\\obj\\",
+        "outputPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\DownloadsForYoutube\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj": {
-                "projectPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj"
+              "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj": {
+                "projectPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj": {
+    "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj",
         "projectName": "TratamentoDeString",
-        "projectPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\TratamentoDeString.csproj",
+        "projectPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\TratamentoDeString.csproj",
         "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexa\\Documents\\BaixarMusica\\TratamentoDeString\\obj\\",
+        "outputPath": "C:\\Users\\Alexa\\Documents\\DownloadsForYoutube\\TratamentoDeString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,23 +5,25 @@ using System.Threading.Tasks;
 using AngleSharp.Svg.Dom;
 using BaixarVideo.Class;
 using Microsoft.VisualBasic;
-using ProjetoFinal.src.link;
 using YoutubeExplode;
 using YoutubeExplode.Videos.Streams;
 
+#pragma warning disable CA1416
+
 namespace VideoClass
 {
-    public class YoutubeDownload : Link
+    public class YoutubeDownload
     {
-        public YoutubeDownload(string url) : base(url)
-        { }
+        public YoutubeDownload(string url)
+        { urlLink = url; }
+
+        private string urlLink;
+        private string nomeDoComputador = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+        private YoutubeClient youtube = new YoutubeClient();
+        private TratamentoDeTexto tratamento = new TratamentoDeTexto();
 
         public async Task BaixarVideoDoYoutube()
         {
-            var youtube = new YoutubeClient();
-
-            var tratamento = new TratamentoDeTexto();
-
             Console.Clear();
 
             Console.WriteLine("Baixando video...\n");
@@ -54,10 +56,6 @@ namespace VideoClass
 
         public async Task BaixarAudioDoYoutube()
         {
-            var youtube = new YoutubeClient();
-
-            var tratamento = new TratamentoDeTexto();
-
             Console.Clear();
 
             Console.WriteLine("Baixando audio...\n");
@@ -90,9 +88,7 @@ namespace VideoClass
 
         public async Task BaixarAudiosDePlaylist(string NomePlaylist)
         {
-            var youtube = new YoutubeClient();
-
-            var tratamento = new TratamentoDeTexto();
+            Console.Clear();
 
             var nomePlaylist = tratamento.NomeDePasta(NomePlaylist);
 
@@ -104,8 +100,6 @@ namespace VideoClass
 
             if (!Directory.Exists(downloadPath))
             { Directory.CreateDirectory(downloadPath); }
-
-            Console.Clear();
 
             Console.WriteLine($"Todas as musicas serão baixadas em {downloadPath}");
 
