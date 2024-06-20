@@ -6,8 +6,11 @@ Para começar, você precisa baixar e instalar o .NET SDK ou o .NET Runtime. Voc
 ## 2. Clonar este repositorio
 Abra o terminal e execute o seguinte comando para clonar o repositório: git clone https://github.com/Alexandre0lemos/Baixar-musica.git
 
-## 3. Escolher o projeto
-Dentro do repositório, você encontrará dois projetos:
+## 3 Executar
+1. Navegue até o diretório do projeto escolhido no terminal.
+2. Execute o comando: `dotnet run`
+
+## 4. Escolher o projeto
 
 - **BaixarAudio:** Este projeto permite baixar arquivos de áudio.
 - **BaixarVideo:** Este projeto permite baixar arquivos de vídeo.
@@ -15,6 +18,4 @@ Dentro do repositório, você encontrará dois projetos:
 
 Escolha o projeto que melhor atende às suas necessidades.
 
-## 4 Executar
-1. Navegue até o diretório do projeto escolhido no terminal.
-2. Execute o comando: `dotnet run`
+
